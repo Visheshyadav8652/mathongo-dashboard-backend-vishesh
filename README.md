@@ -39,7 +39,7 @@ ADMIN_TOKEN=<your_admin_token>
 ```
 
 ### 4. Start Redis Server
-- **Windows:** Use [Memurai](https://www.memurai.com/get-memurai) or Docker
+- **Windows:** Use Docker
 - **Linux/Mac:** `redis-server`
 
 ### 5. Start the Server
